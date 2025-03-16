@@ -1,0 +1,11 @@
+[project]
+name = "national-park-analysis"
+requires-python = ">=3.10"
+version = "0.1"
+dependencies = [
+    "requests==2.32.3",
+    "selenium==4.29.0",
+    "beautifulsoup4==4.13.3",
+    "httpx==0.28.1",
+    "pandas==2.2.3"
+]
