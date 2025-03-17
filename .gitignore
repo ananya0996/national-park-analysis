@@ -1,2 +1,3 @@
-usa_national_park_trends.egg-info/
+*.egg-info/
+build/
 venv/
